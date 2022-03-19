@@ -3,6 +3,7 @@
 Autor: [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
 Com a ajuda do Prof. [João Marcelo](https://github.com/jmhal) !!!
+O material disponível neste repositório foi baseado na metodologia de aula do Prof. [João Marcelo](https://github.com/jmhal).
 
 ## Atividades da Disciplina
 
