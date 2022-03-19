@@ -20,9 +20,9 @@ O objetivo desta primeira questão é configurar o repositório no GitHub que se
 
 1. Entre no SI3 da disciplina, vá em Turma e depois em Participantes. Veja como está o seu nome.
 2. Suponha que seu nome esteja como JOÃO MARCELO UCHÔA DE ALENCAR:
-   Escolha o primeiro e o segundo nomes, transforme em minúsculo e retire os acentos.
-   Anexe a cadeia de caracteres nuvem20211.
-   No exemplo, seria joaomarcelonuvem20211.
+   - Escolha o primeiro e o segundo nomes, transforme em minúsculo e retire os acentos.
+   - Anexe a cadeia de caracteres nuvem20211.
+   - No exemplo, seria joaomarcelonuvem20211.
 3. Crie um repositório no GitHub privado com o nome definido pelas regras acima e mande um convite de colaboração para o e-mail jmarcelo.alencar@gmail.com.
 4. ATENÇÃO!!!: Obedeça as regras. Se você não usa seu primeiro ou segundo nome no dia a dia, não importa, para mim o importante é que seja fácil adicionar suas notas no SI3.
 Se por acaso o repositório criado não obedecer a nomenclatura acima, não valerá a nota.
