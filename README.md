@@ -14,7 +14,5 @@ Lista de atividades a serem entregues pelos alunos.
 
 ![Login AWSAcademy](imagens/awsacademy1.png)
 
-[AWS-LABS](https://github.com/thyagomota/aws-labs)
-
-Autores: [Thyago Mota](https://github.com/thyagomota) e [João Marcelo](https://github.com/jmhal)
+[AWS-LABS](https://github.com/thyagomota/aws-labs) - Autores: [Thyago Mota](https://github.com/thyagomota) e [João Marcelo](https://github.com/jmhal)
 
