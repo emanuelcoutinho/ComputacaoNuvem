@@ -1,20 +1,26 @@
-# Lab-001
+# Atividade 01
 
-## A Single EC2 Instance
+## Introdução
 
-Difficulty Level: 1
+Data de criação: 19/03/2022
 
-Creation Date: June 8, 2020
-
-Original Author(s): [Thyago Mota](https://github.com/thyagomota)
+Original Author(s): [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
 Contributor(s): [João Marcelo](https://github.com/jmhal)
 
-## Goal
-The goal of this lab is to launch a single EC2 instance in a public subnet accessible over the Internet via SSH. [Here](../images/EC2.png) is a mind map of EC2. 
+## Objetivo
+Introdução ao Curso e a AWS Academy/Educate.
 
-## Architecture Diagram
-![lab-001-arch-01](images/lab-001-arch-01.png)
+## Valor
+
+1,0 ponto na 1ª nota.
+
+## Data da Entrega Limite
+
+22/05/2021
+
+=====================
+
 
 ## Overview
 
@@ -110,13 +116,6 @@ Paste and run the ssh command. You should be able to log into your instance. If 
 
 ================
 
-
-Computação em Nuvem - Atividade 01
-Leia com atenção as instruções abaixo.
-
-Valor: 1,0 pontos na 1ª Nota.
-
-Data da Entrega Limite: 22/05/2021
 
 Questão 01 - 0,5 Pontos
 O objetivo desta primeira questão é configurar o repositório no GitHub que será utilizado para submissão de atividades mais adiante na disciplina. Observe com atenção as regras de nomenclatura do mesmo para facilitar a vida do professor. Lembre que terei que corrigir as atividades de vários estudantes, então quanto mais fácil for para identificar o autor da atividade, mais rápido você obterá o resultado da avaliação.
