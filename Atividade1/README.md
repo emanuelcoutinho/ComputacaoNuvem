@@ -7,7 +7,7 @@ Data de criação: 19/03/2022
 Autor: [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
 ## Objetivo
-Introdução ao Curso e a AWS Academy/Educate.
+Introdução ao Curso e a AWS Academy.
 
 ## Valor
 1,0 ponto na 1ª nota.
@@ -28,7 +28,7 @@ O objetivo desta primeira questão é configurar o repositório no GitHub que se
 Se por acaso o repositório criado não obedecer a nomenclatura acima, não valerá a nota.
 
 ## Questão 02 - 0,5 Pontos
-Vamos começar a disciplina utilizando o conteúdo da **AWS Academy**. Portanto o aluno deve preencher o cadastro nesta plataforma, já enviado para o e-mail cadastrado na planilha de **Informações Gerais** da disciplina.
+Vamos começar a disciplina utilizando o conteúdo da **[AWS Academy](https://www.awsacademy.com/LMS_Login)**. Portanto o aluno deve preencher o cadastro nesta plataforma, já enviado para o e-mail cadastrado na planilha de **Informações Gerais** da disciplina.
 
 <!--
 No dia 10/05/2021 fiz a requisição de criação de uma turma virtual na plataforma **AWS Educate**. O pedido ainda está sob revisão, a AWS pede até 7 dias para liberar o acesso. Portanto, até a data final desta atividade você deverá receber um e-mail no endereço cadastrado no SI3 para completar o cadastro. Sua tarefa nesta questão consiste justamente em aceitar o convite e completar o cadastro. Poderei verificar pelo sistema se cada estudante cumpriu essa tarefa.
