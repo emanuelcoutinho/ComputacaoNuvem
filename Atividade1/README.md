@@ -13,7 +13,7 @@ Introdução ao Curso e a AWS Academy.
 1,0 ponto na 1ª nota.
 
 ## Data da Entrega Limite
-22/05/2021
+29/03/2021
 
 ## Questão 01 - 0,5 Pontos
 O objetivo desta primeira questão é configurar o repositório no GitHub que será utilizado para submissão de atividades mais adiante na disciplina. Observe com atenção as regras de nomenclatura do mesmo para facilitar a vida do professor. Lembre que terei que corrigir as atividades de vários estudantes, então quanto mais fácil for para identificar o autor da atividade, mais rápido você obterá o resultado da avaliação.
