@@ -13,7 +13,7 @@ Lista de atividades a serem entregues pelos alunos.
 AWS Academy
 https://www.awsacademy.com/LMS_Login
 
-![Login AWSAcademy](../imagens/awsacademy1.png)
+![Login AWSAcademy](imagens/awsacademy1.png)
 
 AWS-LABS
 https://github.com/thyagomota/aws-labs
