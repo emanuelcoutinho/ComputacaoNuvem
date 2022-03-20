@@ -15,8 +15,7 @@ Seminários sobre tópicos avançados em Computação em Nuvem.
 ## Data da Entrega Limite
 XX/XX/2022
 
-## Questão 01 - 0,5 Pontos
-estimativa no arquivo estimativa.md na pasta criada.
+## Questão 01 - 10,0 Pontos
 
 1. Equipe
    - Máximo três alunos
