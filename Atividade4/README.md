@@ -13,10 +13,10 @@ Categorias de Serviços
 3,0 pontos na 1ª nota.
 
 ## Data da Entrega Limite
-12/04/2021
+19/04/2021
 
 ## Questão 01 - 1,0 Ponto
-Resolva o Teste de Conhecimento do **Módulo 3 - Visão geral da infraestrutura global da AWS**. Se você tirar 80 pontos no Teste de Conhecimento, receberá 0,8 * 0,5 = 0,4 pontos nesta questão.
+Resolva o Teste de Conhecimento do **Módulo 3 - Visão geral da infraestrutura global da AWS**. Se você tirar 80 pontos no Teste de Conhecimento, receberá 0,8 * 1 = 0,8 pontos nesta questão.
 
 ## Questão 02 - 1,0 Ponto
 Responda aos itens a seguir:
