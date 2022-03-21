@@ -22,7 +22,7 @@ O objetivo desta primeira questão é configurar o repositório no GitHub que se
 2. Suponha que **seu nome** esteja como **EMANUEL FERREIRA COUTINHO**:
    - Escolha o **primeiro** e o **segundo** nomes, transforme em **minúsculo** e retire os acentos.
    - Anexe a cadeia de caracteres **nuvem20221**.
-   - No exemplo, seria **emanuelcoutinhonuvem20221**.
+   - No exemplo, seria **emanuelferreiranuvem20221**.
 3. Crie um repositório no GitHub **privado** com o nome definido pelas regras acima e mande um convite de colaboração para o e-mail **emanuel.coutinho@ufc.br**.
 4. **ATENÇÃO!!!**: Obedeça as regras. Se você não usa seu primeiro ou segundo nome no dia a dia, não importa, para mim o importante é que seja fácil adicionar suas notas no SI3.
 Se por acaso o repositório criado não obedecer a nomenclatura acima, não valerá a nota.
