@@ -24,11 +24,11 @@ O objetivo desta primeira questão é configurar o repositório no GitHub que se
    - Anexe a cadeia de caracteres **nuvem20221**.
    - No exemplo, seria **emanuelferreiranuvem20221**.
 3. Crie um repositório no GitHub **privado** com o nome definido pelas regras acima e mande um convite de colaboração para o e-mail **emanuel.coutinho@ufc.br**.
-4. **ATENÇÃO!!!**: Obedeça as regras. Se você não usa seu primeiro ou segundo nome no dia a dia, não importa, para mim o importante é que seja fácil adicionar suas notas no SI3.
+4. **ATENÇÃO!!!**: Obedeça as regras. Se você não usa seu primeiro ou segundo nome no dia a dia, não importa, para mim o importante é que seja fácil adicionar suas notas no SIGAA.
 Se por acaso o repositório criado não obedecer a nomenclatura acima, não valerá a nota.
 
 ## Questão 02 - 0,5 Pontos
-Vamos começar a disciplina utilizando o conteúdo da **[AWS Academy](https://www.awsacademy.com/LMS_Login)**. Portanto o aluno deve preencher o cadastro nesta plataforma, já enviado para o e-mail cadastrado na planilha de **Informações Gerais** da disciplina.
+Vamos começar a disciplina utilizando o conteúdo da **[AWS Academy](https://www.awsacademy.com/LMS_Login)**. Portanto o aluno deve preencher o cadastro nesta plataforma, já enviado para o e-mail cadastrado na planilha de **Informações Gerais** da disciplina. Aproveite e dê uma geral no guia do estudante e como utilizar os laboratórios.
 
 <!--
 No dia 10/05/2021 fiz a requisição de criação de uma turma virtual na plataforma **AWS Educate**. O pedido ainda está sob revisão, a AWS pede até 7 dias para liberar o acesso. Portanto, até a data final desta atividade você deverá receber um e-mail no endereço cadastrado no SI3 para completar o cadastro. Sua tarefa nesta questão consiste justamente em aceitar o convite e completar o cadastro. Poderei verificar pelo sistema se cada estudante cumpriu essa tarefa.
