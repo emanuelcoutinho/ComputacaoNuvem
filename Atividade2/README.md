@@ -19,7 +19,7 @@ Motivação e Cloud Adoption Framework
 Resolva o Teste de Conhecimento do **Módulo 1 - Visão geral dos conceitos de nuvem**. Se você tirar 80 pontos no Teste de Conhecimento, receberá 0,8 * 0,5 = 0,4 pontos nesta questão.
 
 ## Questão 02 - 0,5 Pontos
-Crie uma pasta chamada **atividades** e dentro dela inclua uma pasta chamada **atividade02**. Coloque as questões a seguir e respostas em um arquivo de maneira organizada. 
+Crie uma pasta chamada **Atividade02**. Inclua as questões a seguir e respostas em um arquivo PDF de maneira organizada.
 
 1. Quais são as seis principais vantagens da computação em nuvem?
 2. Quais são os três modelos de serviços de computação em nuvem? Cite um exemplo para cada modelo, seja de um serviço da AWS ou de outro provedor.
