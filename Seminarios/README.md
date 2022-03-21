@@ -25,6 +25,7 @@ XX/XX/2022
    - Devem ser bem feitos
    - Devem explicar bem o tema
    - Devem ser concisos
+   - Devem conter algo prático (não necessariamente a execução em tempo real, mas imagens do que foi feito, por exemplo)
    - Devem conter capa, equipe, slides numerados e uma pergunta sobre o tema no final
    - Mínimo 20 slides
    - Criar uma pasta **Seminarios** e enviar o PDF
@@ -42,6 +43,6 @@ XX/XX/2022
 5. Critérios de Avaliação
    - Qualidade dos tema
    - Qualidade dos slides
-   - Qualidade das apresentações
+   - Qualidade da apresentação
    - Distribuição entre equipe
    - Aproveitamento do tempo
