@@ -30,6 +30,8 @@ Se por acaso o repositório criado não obedecer a nomenclatura acima, não vale
 ## Questão 02 - 0,5 Pontos
 Vamos começar a disciplina utilizando o conteúdo da **[AWS Academy](https://www.awsacademy.com/LMS_Login)**. Portanto o aluno deve preencher o cadastro nesta plataforma, já enviado para o e-mail cadastrado na planilha de **Informações Gerais** da disciplina. Aproveite e dê uma geral no guia do estudante e como utilizar os laboratórios.
 
+Insira um arquivo **PDF** descrevendo suas primeiras impressões sobre o curso da AWS Academy.
+
 <!--
 No dia 10/05/2021 fiz a requisição de criação de uma turma virtual na plataforma **AWS Educate**. O pedido ainda está sob revisão, a AWS pede até 7 dias para liberar o acesso. Portanto, até a data final desta atividade você deverá receber um e-mail no endereço cadastrado no SI3 para completar o cadastro. Sua tarefa nesta questão consiste justamente em aceitar o convite e completar o cadastro. Poderei verificar pelo sistema se cada estudante cumpriu essa tarefa.
 
