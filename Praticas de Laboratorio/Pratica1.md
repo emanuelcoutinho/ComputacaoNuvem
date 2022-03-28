@@ -7,7 +7,7 @@ Data de criação: 28/03/2022
 Autor: [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
 ## Objetivo
-Analisar benefícios de clientes da Amazon.
+Conhecer casos de sucesso da Amazon.
 
 
 ## Instruções de Envio
