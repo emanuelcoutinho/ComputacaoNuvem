@@ -12,7 +12,7 @@ Conhecer casos de sucesso da Amazon.
 
 ## Instruções de Envio
 
-Crie uma pasta no GITHUB **Praticas de Laboratorio** e inclua um arquivo **PDF** de nome ***Pratica01** com as questões a seguir e as respectivas respostas.
+Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo **PDF** de nome **Pratica01** com as questões a seguir e as respectivas respostas.
 
 ## Questão 01
 
@@ -33,4 +33,4 @@ Acesse os sites de outros fornecedores de Computação em Nuvem (por exemplo o G
 
 ## Questão 03
 
-Pesquise e descreva uma situação de problemas / falhas que ocorreram com clientes de Computação em Nuvem. Identifique a fonte da informação.
+Pesquise e descreva uma situação de problema / falha que ocorreu com clientes de Computação em Nuvem. Identifique a fonte da informação.
