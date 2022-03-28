@@ -12,7 +12,7 @@ Conhecer casos de sucesso da Amazon.
 
 ## Instruções de Envio
 
-Crie uma pasta no GITHUB **Praticas de Laboratorio** e incluam um **PDF** com as questões a seguir e as respectivas respostas.
+Crie uma pasta no GITHUB **Praticas de Laboratorio** e inclua um arquivo **PDF** de nome ***Pratica01** com as questões a seguir e as respectivas respostas.
 
 ## Questão 01
 
@@ -25,12 +25,12 @@ Redija um pequeno texto resumindo (1 página no mínimo para cada):
 2. Desafio
 3. Por que Amazon?
 4. Benefícios
-5. Arquitetura
+5. Arquitetura (incluir imagens preferencialmente)
 
 ## Questão 02
 
-Acesse os sites de outros fornecedores de Computação em Nuvem (por exemplo o Google Cloud). Identifique clientes dessas plataformas e descreva a utilização.
+Acesse os sites de outros fornecedores de Computação em Nuvem (por exemplo o Google Cloud). Identifique clientes dessas plataformas e descreva como o provedor foi utilizado.
 
 ## Questão 03
 
-Pesquise e descreva uma situação de problemas / falhas que ocorreram com clientes de Computação em Nuvem.
+Pesquise e descreva uma situação de problemas / falhas que ocorreram com clientes de Computação em Nuvem. Identifique a fonte da informação.
