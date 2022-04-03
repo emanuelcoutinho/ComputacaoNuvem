@@ -15,6 +15,8 @@ Categorias de Serviços
 ## Data da Entrega Limite
 19/04/2021
 
+Inclua na pasta as **questões** a seguir e as respectivas **respostas** em um arquivo **PDF** ou usando a sintaxe da linguagem **MarkDown** de maneira organizada.
+
 ## Questão 01 - 1,0 Ponto
 Resolva o Teste de Conhecimento do **Módulo 3 - Visão geral da infraestrutura global da AWS**. Se você tirar 80 pontos no Teste de Conhecimento, receberá 0,8 * 1 = 0,8 pontos nesta questão.
 
