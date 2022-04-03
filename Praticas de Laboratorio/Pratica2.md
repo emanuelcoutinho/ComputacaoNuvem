@@ -1,4 +1,4 @@
-# Prática 01
+# Prática 02
 
 ## IaaS, PaaS e SaaS
 
@@ -12,7 +12,7 @@ Conhecer os modelos de serviços da Computação em Nuvem.
 
 ## Instruções de Envio
 
-Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo **PDF** de nome **Pratica02** com as questões a seguir e as respectivas respostas.
+Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo **PDF** ou usando a sintaxe da linguagem **MarkDown** de nome **Pratica02** com as questões a seguir e as respectivas respostas.
 
 ## Questão 01
 
