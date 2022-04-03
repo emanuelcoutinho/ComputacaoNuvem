@@ -20,7 +20,9 @@ Resolva o Teste de Conhecimento do **Módulo 2 - Economia e faturamento da nuvem
 
 ## Questão 02 - 0,5 Pontos
 
-Inclua na pasta a **questão** a seguir e **resposta** em um arquivo **PDF** ou usando a sintaxe da linguagem **MarkDown** de maneira organizada.
+Crie uma pasta chamada **Atividade03**. Esse procedimento valerá para todas as atividades, só mudando o nome da pasta. 
+
+Inclua na pasta as **questões** a seguir e as respectivas **respostas** em um arquivo **PDF** ou usando a sintaxe da linguagem **MarkDown** de maneira organizada.
 
 Como arquiteto de nuvem, você precisa fazer uma estimativa para uma empresa que deseja começar a migração para a nuvem. Atualmente, no datacenter on premises, eles possuem um conjunto de máquinas que totalizam 64 cores e 128 GB de RAM, executando um sistema Linux sem custo de licença, cada uma com disco de 256GB para suportar a instalação do sistema operacional com todas as dependências. Segundo o projetista da aplicação, qualquer quantidade de máquinas virtuais será suficiente, desde que no total somem a mesma ou maior quantidade de cores e memória RAM, mas o mesmo disco de 256 GB por instância. O gerente financeiro afirma que não vê problema em fazer pagamentos adiantados, desde que o custo mensal seria reduzido. Já o gerente de relacionamentos exige que a aplicação seja hospedada no Brasil, pois é uma exigência de alguns clientes.
 
