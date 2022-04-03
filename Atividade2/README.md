@@ -21,7 +21,7 @@ Resolva o Teste de Conhecimento do **Módulo 1 - Visão geral dos conceitos de n
 ## Questão 02 - 0,5 Pontos
 Crie uma pasta chamada **Atividade02**. Esse procedimento valerá para todas as atividades, só mudando o nome da pasta. 
 
-Inclua na pasta as **questões** a seguir e **respostas** em um arquivo PDF de maneira organizada.
+Inclua na pasta as **questões** a seguir e **respostas** em um arquivo PDF ou usando a sintaxe da linguagem **MarkDown** de maneira organizada.
 
 1. Quais são as seis principais vantagens da computação em nuvem?
 2. Quais são os três modelos de serviços de computação em nuvem? Cite um exemplo para cada modelo, seja de um serviço da AWS ou de outro provedor.
