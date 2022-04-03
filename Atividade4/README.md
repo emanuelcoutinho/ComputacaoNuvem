@@ -15,6 +15,8 @@ Categorias de Serviços
 ## Data da Entrega Limite
 19/04/2021
 
+Crie uma pasta chamada **Atividade04**. Esse procedimento valerá para todas as atividades, só mudando o nome da pasta. 
+
 Inclua na pasta as **questões** a seguir e as respectivas **respostas** em um arquivo **PDF** ou usando a sintaxe da linguagem **MarkDown** de maneira organizada.
 
 ## Questão 01 - 1,0 Ponto
