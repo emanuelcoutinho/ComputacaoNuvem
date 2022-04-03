@@ -25,5 +25,5 @@ Este é o primeiro laboratório, tem vários detalhes e alguns pontos estão des
 
 Para comprovar esta atividade, além da prática na AWS Academy, você terá duas opções de relato das atividades de laboratório. Escolha uma delas:
 
-1. Relatório em arquivo - descrição passo a passo do laboratório, com imagens, descrição das atividades, comando utilizados, configurações e resultados.
+1. Relatório em arquivo - descrição passo a passo do laboratório, com imagens, descrição das atividades, comandos utilizados, configurações e resultados.
 2. Vídeo em MP4 - link para um vídeo mostrando a prática em execução.
