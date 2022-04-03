@@ -23,3 +23,7 @@ Complete todas as etapas do **Laboratório 1 - Introdução ao IAM**.
 
 Este é o primeiro laboratório, tem vários detalhes e alguns pontos estão desatualizados. Então sugiro que vocês executem com muita atenção. Por envolver o uso da interface web, é um pouco complicado tirar dúvidas por emal. Portanto, façam o que for possível e deixaremos para tirar dúvidas em sala de aula. Óbvio que se você conseguir realizar tudo com sucesso, estará tudo bem.
 
+Para comprovar esta atividade, além da prática na AWS Academy, você terá duas opções de relato das atividades de laboratório:
+
+1. Relatório em arquivo - descrição passo a passo do laboratório, com imagens, descrição das atividades, comando utilizados, configurações e resultados.
+2. Vídeo em MP4 - link para um vídeo mostrando a prática em execução.
