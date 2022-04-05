@@ -37,7 +37,6 @@ Busque na web por plataformas de PaaS indicando:
 6. Links / sites
 7. Serviços
 8. Linguagens de programação
-9. Telas
 
 ## Questão 03
 
