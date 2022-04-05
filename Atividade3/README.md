@@ -13,7 +13,7 @@ Cobrança e Gestão de Custo
 1,0 ponto na 1ª nota.
 
 ## Data da Entrega Limite
-12/04/2021
+12/04/2022
 
 ## Questão 01 - 0,5 Pontos
 Resolva o Teste de Conhecimento do **Módulo 2 - Economia e faturamento da nuvem**. Se você tirar 80 pontos no Teste de Conhecimento, receberá 0,8 * 0,5 = 0,4 pontos nesta questão.
