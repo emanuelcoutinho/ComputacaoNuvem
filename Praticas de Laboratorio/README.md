@@ -7,7 +7,7 @@ Data de criação: 05/04/2022
 Autor: [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
 ## Objetivo
-Roteiros a serem seguidos no labortório. O envio é opcional, mas são aqueles pontos que podem lhe salvar na reta final.
+Roteiros a serem seguidos no laboratório. O envio é opcional, mas são aqueles pontos que podem lhe salvar na reta final.
 
 
 ## Instruções de Envio
