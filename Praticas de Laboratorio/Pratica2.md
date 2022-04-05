@@ -52,7 +52,7 @@ Busque na web por plataformas para SaaS indicando:
 
 1. Pesquise outros "modelos como serviço" diferentes dos três modelos tradicionais (IaaS, PaaS, SaaS).
 2. Descreva o modelo
-3. Desenhe uma figura que represente o modelo (pode ser se onde ele se encaixa no modelo tradicional)
+3. Desenhe uma figura que represente o modelo (ou encontre uma figura que o represente - com o link)
 4. Exemplifique seu uso
 
 
