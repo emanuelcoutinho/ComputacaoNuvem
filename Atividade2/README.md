@@ -13,7 +13,7 @@ Motivação e Cloud Adoption Framework
 1,0 ponto na 1ª nota.
 
 ## Data da Entrega Limite
-05/04/2021
+05/04/2022
 
 ## Questão 01 - 0,5 Pontos
 Resolva o Teste de Conhecimento do **Módulo 1 - Visão geral dos conceitos de nuvem**. Se você tirar 80 pontos no Teste de Conhecimento, receberá 0,8 * 0,5 = 0,4 pontos nesta questão.
