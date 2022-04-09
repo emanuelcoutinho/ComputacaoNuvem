@@ -1,6 +1,6 @@
 # Prática 01
 
-## Introdução
+## Estudo de Casos de Sucesso de Empresas
 
 Data de criação: 28/03/2022
 
