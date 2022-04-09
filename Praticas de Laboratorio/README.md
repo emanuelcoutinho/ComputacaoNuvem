@@ -19,3 +19,5 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 [Prática 1](Pratica1.md)
 
 [Prática 2](Pratica2.md)
+
+[Prática 3](Pratica3.md)
