@@ -16,8 +16,8 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 
 ## Práticas
 
-[Prática 1](Pratica1.md)
+[Prática 1 - Estudo de Casos de Sucesso de Empresas](Pratica1.md)
 
-[Prática 2](Pratica2.md)
+[Prática 2 - IaaS, PaaS e SaaS](Pratica2.md)
 
-[Prática 3](Pratica3.md)
+[Prática 3 - Custos na Amazon](Pratica3.md)
