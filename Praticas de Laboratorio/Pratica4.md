@@ -20,7 +20,7 @@ Inicie o ambiente prático do **Sandbox** e conecte-se ao **Console de Gerenciam
 
 Clique no menu **Serviços**.
 
-1. Observe como os serviços são agrupados em categorias de serviço. Por exemplo, o serviço EC2 aparece na categoria Compute service (Serviço de computação).
+1. Observe como os serviços são agrupados em categorias de serviço. Por exemplo, o serviço EC2 aparece na categoria **Computação**.
    - Em qual categoria de serviço o serviço IAM aparece? 
    - Em qual categoria de serviço o serviço RDS aparece?
    - Em qual categoria de serviço o serviço AWS Cost Explorer aparece?
