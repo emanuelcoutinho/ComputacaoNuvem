@@ -14,7 +14,7 @@ Conhecer mais sobre as regiões e zonas de disponibilidade da Amazon.
 
 Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo **PDF** ou usando a sintaxe da linguagem **MarkDown** de nome **Pratica04** com as questões a seguir e as respectivas respostas.
 
-## Questão 01
+## Questões
 
 Inicie o ambiente prático do **Sandbox** e conecte-se ao **Console de Gerenciamento da AWS**.
 
