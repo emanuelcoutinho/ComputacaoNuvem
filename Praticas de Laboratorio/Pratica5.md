@@ -23,8 +23,8 @@ Acesse o **EC2**.
 
 Vá até **Instâncias** e clique em **Executar Instâncias**.
 
-Preencha os seguintes campos:
+1. Preencha os seguintes campos:
 
-1. Nomes e tags - com o nome da sua máquina virtual
-2. Escolha a imagem de aplicação e sistema operacional **Amazon Linux**
-3. Par de chaves - selecione **vockey**
+   - Nomes e tags - com o nome da sua máquina virtual
+   - Escolha a imagem de aplicação e sistema operacional **Amazon Linux**
+   - Par de chaves - selecione **vockey**
