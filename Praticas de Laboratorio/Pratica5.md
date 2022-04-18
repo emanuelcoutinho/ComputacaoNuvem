@@ -84,4 +84,5 @@ Acesse o **EC2**.
    - Opção com download: clique em **Fazer download de arquivo de área de trabalho remota**
    - Execute o arquivo
    - Utilize a senha obtida previamente
+   - Relate a prática
 
