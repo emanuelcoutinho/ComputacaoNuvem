@@ -28,3 +28,29 @@ Vá até **Instâncias** e clique em **Executar Instâncias**.
    - Nomes e tags - com o nome da sua máquina virtual
    - Escolha a imagem de aplicação e sistema operacional **Amazon Linux**
    - Par de chaves - selecione **vockey**
+
+2. Identifique os seguintes campos e copie as informações:
+
+   - Descrição da imagem a ser criada
+   - Tipo da instância
+   - Configurações de redes
+   - Armazenamento
+   - Número de instâncias
+
+3. Identifique na lista de instâncias o endereço IP público da máquina virtual.
+
+4. Acesse a algum cliente SSH de sua preferência (eu uso ou o terminal com linha de comando ou o MobaXterm).
+
+   - Insira o endereço IP
+   - O usuário é **ec2-user**
+   - Use a chave privada (chave SSH)
+   - Acesse a máquina virtual
+   - A partir da linha de comando ou terminal de outra máquina virtual ou máquina física, digite **ping** e o endereço IP da máquina virtual criada
+   - Explique o que aconteceu
+   - Na lista de instâncias, vá nos detalhes da máquina virtual, aba segurança, clique no grupo de segurança, vá nas regras de entrada, botão editar regras de entrada, adicione o seguinte: Tipo = ICMP - IPv4, Bloco CIDR = 0.0.0.0/0
+   - Novamente digite o comando ping
+   - Explique o que aconteceu
+
+
+
+
