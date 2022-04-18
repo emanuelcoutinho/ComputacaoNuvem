@@ -21,3 +21,9 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 [Prática 2 - IaaS, PaaS e SaaS](Pratica2.md)
 
 [Prática 3 - Custos na Amazon](Pratica3.md)
+
+[Prática 4 - Regiões e Zonas de Disponibilidade da Amazon](Pratica4.md)
+
+[Prática 5 - Criando Máquinas Virtuais](Pratica5.md)
+
+
