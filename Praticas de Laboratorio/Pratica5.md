@@ -83,6 +83,6 @@ Acesse o **EC2**.
    - Você pode conectar sua instância windows usando uma área de trabalho remota cliente de sua preferência ou fazendo o download e executando o arquivo de atalho de RDP disponível
    - Opção com download: clique em **Fazer download de arquivo de área de trabalho remota**
    - Execute o arquivo
-   - Utilize a senha obtida previamente
+   - Utilize a senha obtida previamente e acessa a máquina virtual
    - Relate a prática
 
