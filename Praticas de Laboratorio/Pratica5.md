@@ -21,15 +21,17 @@ Uma vez pronto, acesse em **Details** >> **Show** e faça download da chave SSH 
 
 Acesse o **EC2**.
 
-Vá até **Instâncias** e clique em **Executar Instâncias**.
+## Questão 01 - Instância Linux
 
-1. Preencha os seguintes campos:
+1. Vá até **Instâncias** e clique em **Executar Instâncias**.
+
+2. Preencha os seguintes campos:
 
    - Nomes e tags - com o nome da sua máquina virtual
    - Escolha a imagem de aplicação e sistema operacional **Amazon Linux**
    - Par de chaves - selecione **vockey**
 
-2. Identifique os seguintes campos e copie as informações:
+3. Identifique os seguintes campos e copie as informações:
 
    - Descrição da imagem a ser criada
    - Tipo da instância
@@ -37,9 +39,9 @@ Vá até **Instâncias** e clique em **Executar Instâncias**.
    - Armazenamento
    - Número de instâncias
 
-3. Identifique na lista de instâncias o endereço IP público da máquina virtual.
+4. Identifique na lista de instâncias o endereço IP público da máquina virtual.
 
-4. Acesse a algum cliente SSH de sua preferência (eu uso ou o terminal com linha de comando ou o MobaXterm).
+5. Acesse a algum cliente SSH de sua preferência (eu uso ou o terminal com linha de comando ou o MobaXterm).
 
    - Insira o endereço IP
    - O usuário é **ec2-user**
@@ -51,6 +53,35 @@ Vá até **Instâncias** e clique em **Executar Instâncias**.
    - Novamente digite o comando ping
    - Explique o que aconteceu
 
+## Questão 02 - Instância Windows
 
 
+1. Vá até **Instâncias** e clique em **Executar Instâncias**.
+
+2. Preencha os seguintes campos:
+
+   - Nomes e tags - com o nome da sua máquina virtual
+   - Escolha a imagem de aplicação e sistema operacional **Windows**
+   - Par de chaves - selecione **vockey**
+
+3. Identifique os seguintes campos e copie as informações:
+
+   - Descrição da imagem a ser criada
+   - Tipo da instância
+   - Configurações de redes
+   - Armazenamento
+   - Número de instâncias
+
+4. Identifique na lista de instâncias o endereço IP público da máquina virtual.
+
+5. Selecione a máquina virtual criada com a imagem windows
+   - Clique em **Ações**, **Segurança**, **Obter senha do windows**
+   - Associe à chave SSH e clique em **Descriptografar senha**
+   - Salve os dados do IP privado, nome do usuário e senha
+
+6. Na lista de instâncias, com esta instância selecionada, clique em **Conectar**
+   - Você pode conectar sua instância windows usando uma área de trabalho remota cliente de sua preferência ou fazendo o download e executando o arquivo de atalho de RDP disponível
+   - Opção com download: clique em **Fazer download de arquivo de área de trabalho remota**
+   - Execute o arquivo
+   - Utilize a senha obtida previamente
 
