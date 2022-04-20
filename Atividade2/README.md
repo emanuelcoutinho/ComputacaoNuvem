@@ -24,8 +24,8 @@ Crie uma pasta chamada **Atividade02**. Esse procedimento valerá para todas as 
 Inclua na pasta as **questões** a seguir e as respectivas **respostas** em um arquivo **PDF** ou usando a sintaxe da linguagem **MarkDown** de maneira organizada.
 
 1. Quais são as seis principais vantagens da computação em nuvem?
-2. Quais são os três modelos de serviços de computação em nuvem? Cite um exemplo para cada modelo, seja de um serviço da AWS ou de outro provedor.
-3. Cite três serviços da AWS para cada categoria a seguir:
+2. Quais são os três modelos de serviços de computação em nuvem? Defina-os brevemente e cite um exemplo para cada modelo, seja de um serviço da AWS ou de outro provedor.
+3. Cite **três** serviços da AWS para cada categoria a seguir:
    - Computação
    - Armazenamento
    - Banco de Dados
