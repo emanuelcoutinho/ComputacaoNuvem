@@ -27,7 +27,7 @@ XX/XX/2022 (para todas as equipes, independente da data da apresentação)
    - Devem explicar bem o tema
    - Devem ser concisos
    - Devem conter algo prático (não necessariamente a execução em tempo real, mas imagens do que foi feito, por exemplo)
-   - Devem conter capa, equipe, slides numerados e uma pergunta sobre o tema no final
+   - Devem conter capa, equipe, slides numerados e uma pergunta sobre o tema no final (múltipla escolha, associar ou V ou F)
    - Mínimo 20 slides
    - Criar uma pasta **Seminarios** no GITHUB e enviar o PDF
 
