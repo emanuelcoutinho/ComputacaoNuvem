@@ -36,4 +36,4 @@ Para comprovar esta atividade, além da prática na AWS Academy, você terá dua
 1. Relatório em arquivo - descrição passo a passo do laboratório, com imagens, descrição das atividades, comandos utilizados, configurações e resultados.
 2. Vídeo em MP4 - link para um vídeo mostrando a prática em execução.
 
-Relatório ou vídeo para **cada uma das questões**.
+Você deve elaborar um relatório ou vídeo para **cada uma das questões**, independente de ser a prática do laboratório ou a prática da atividade.
