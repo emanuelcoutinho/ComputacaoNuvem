@@ -7,7 +7,7 @@ Data de criação: 27/04/2022
 Autor: [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
 ## Objetivo
-Explorar o Amazon EC2, Lambda e Elastic Beanstalk
+Explorar o Amazon EC2, Lambda e Elastic Beanstalk.
 
 ## Valor
 3,0 pontos na 2ª nota.
