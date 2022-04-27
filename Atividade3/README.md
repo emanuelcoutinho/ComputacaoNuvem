@@ -30,6 +30,6 @@ Além dos servidores de aplicação, os desenvolvedores precisam de um banco de 
 
 Seu papel nesta atividade é fazer uma estimativa para o cenário acima usando a Calculadora de preços da AWS. Você deve pesquisar na documentação da AWS quais os serviços de criação de máquinas virtuais e de fornecimento de bancos de dados Oracle gerenciados e informar os requisitos do cenário. Qualquer campo da estimativa que não mencionado na descrição deve ser configurado para uma opção que reduza o custo mensal da estimativa.
 
-Para compartilhar sua resposta, gere o link da estimativa. Inclua o link da estimativa no arquivo a ser enviado e explique o processo que suportou sua decisão (mínimo 10 linhas).
+Para compartilhar sua resposta, gere o **link da estimativa**. Inclua o link da estimativa no arquivo a ser enviado e explique o processo que suportou sua decisão (mínimo **10 linhas**).
 
 
