@@ -25,7 +25,7 @@ Resolva o Teste de Conhecimento do **Módulo 3 - Visão geral da infraestrutura 
 ## Questão 02 - 1,0 Ponto
 Responda aos itens a seguir:
 
-1. Quais os fatores que você deve considerar na seleção de uma região da AWS?
+1. Quais os fatores que você deve considerar na seleção de uma região da AWS? Comente brevemente sobre cada um deles.
 
 2. Acesse [Infraestrutura da AWS](https://aws.amazon.com/pt/about-aws/global-infrastructure/regions_az/) e liste, de todas as regiões disponíveis da AWS, quais tem um número de zonas de disponibilidade maior ou igual a três. Cite o nome da região e a quantidade de zonas.
 
