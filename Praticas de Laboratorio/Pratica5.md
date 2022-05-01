@@ -19,6 +19,8 @@ Inicie o ambiente prático do **Sandbox**.
 
 Uma vez pronto, acesse em **Details** >> **Show** e faça download da chave SSH (mantenha em segurança) em **Download PEM**.
 
+**OBS:** Nunca exponha suas credenciais de acesso!!!
+
 Acesse o **EC2**.
 
 ## Questão 01 - Instância Linux
