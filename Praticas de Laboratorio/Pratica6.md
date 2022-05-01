@@ -24,12 +24,12 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 4. Na linha de comando, utilize o comando **aws configure** para configurar o ambiente.
 
 Por exemplo:
-
-        $ aws configure
-        AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
-        AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-        Default region name [None]: us-west-2
-        Default output format [None]: json
+	
+	$ aws configure
+	AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
+	AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+	Default region name [None]: us-west-2
+	Default output format [None]: json
 
 5. Teste com o comando **aws ec2 describe-instances**.
 
