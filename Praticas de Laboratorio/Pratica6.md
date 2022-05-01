@@ -37,6 +37,7 @@ Por exemplo:
 	
         [default]
         aws_access_key_id=ASIA4T7E453B27Y4UZP2
+        aws_secret_access_key=3pCQoCQqaLrmhh6GMK1zDCZLZilhToqZnoLxnz/n
 
 
 
