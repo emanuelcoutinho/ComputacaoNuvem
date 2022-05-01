@@ -35,10 +35,6 @@ Por exemplo:
 
 5. Se não funcionar, edite o arquivo **credentials** na pasta **.aws** do usuário. O conteúdo será semelhante a:
 	
-[default]
-	aws_access_key_id=ASIA4T7E453B27Y4UZP2
-	aws_secret_access_key=3pCQoCQqaLrmhh6GMK1zDCZLZilhToqZnoLxnz/n
-aws_session_token=FwoGZ87aYXdzEHYaDFzzaE44ygNAhKy8KSK/AfUdqqAcD18OcgDyDXRz/vGYw4NnLDlxQPov5DmzhZPhaIGiMMWUGLrH7gdsXy4xiLEL5Q62o+sFXUmMPDGaYQPcVGo5tendqqAcD1OOedqqAcD1oUNQU3A11h7ODRELbp0Ch4BzW6jJOD6r1+dxsYVNttN43gWsNSXLvcg/8aX6w0ASF765SKEw7Ob0/oJznjhOd3wscIDFEsDzbda8FkdLH/D4t7KMs6vKGep6K3NRzP+q8nZdqqAcD1zuTESKj6IKKbvuZMGMi0qGdY7049ygxi27gyHKJkniPkdqqAcD1PvknlKUUIA9YnReFvjZmR0B0/M+bY=
 
 
 Essas informações podem ser obtidas no sandbox nas credenciais, em **Detalhes > Show > AWS CLI:**. Basta copiar para o arquivo.
