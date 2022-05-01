@@ -21,9 +21,7 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 
 3. Acesse as credenciais da AWS para obter os valores da **SecretKey**, **Region** e **AccessKey**.
 
-4. Na linha de comando, utilize o comando **aws configure** para configurar o ambiente.
-
-Por exemplo:
+4. Na linha de comando, utilize o comando **aws configure** para configurar o ambiente. Por exemplo:
 	
         $ aws configure
         AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
