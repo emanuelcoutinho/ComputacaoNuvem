@@ -36,6 +36,8 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
         [default]
         aws_access_key_id=ASIA4T7E453B27Y4UZP2
         aws_secret_access_key=3pCQoCQqaLrmhh6GMK1zDCZLZilhToqZnoLxnz/n
+        aws_session_token=FwoGZ87aYXdzEHYaDFzzaE44ygNAhKy8KSK/AfUdqqAcD18OcgDyDXRz/vGYw4NnLDlxQPov5DmzhZPhaIGiMMWUGLrH7gdsXy4xiLEL5Q62o+sFXUmMPDGaYQPcVGo5tendqqAcD1OOedqqAcD1oUNQU3A11h7ODRELbp0Ch4BzW6jJOD6r1+dxsYVNttN43gWsNSXLvcg/8aX6w0ASF765SKEw7Ob0/oJznjhOd3wscIDFEsDzbda8FkdLH/D4t7KMs6vKGep6K3NRzP+q8nZdqqAcD1zuTESKj6IKKbvuZMGMi0qGdY7049ygxi27gyHKJkniPkdqqAcD1PvknlKUUIA9YnReFvjZmR0B0/M+bY=
+
 
 ## Questão 01 - Amazon EC2
 
