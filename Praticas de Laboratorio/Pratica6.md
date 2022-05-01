@@ -26,16 +26,16 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 Por exemplo:
 	
         $ aws configure
-AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
-AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-Default region name [None]: us-west-2
-Default output format [None]: json
+        AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
+        AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+        Default region name [None]: us-west-2
+        Default output format [None]: json
 
 5. Teste com o comando **aws ec2 describe-instances**.
 
 5. Se não funcionar, edite o arquivo **credentials** na pasta **.aws** do usuário. Essas informações podem ser obtidas no sandbox nas credenciais, em **Detalhes > Show > AWS CLI:**. Basta copiar para o arquivo. O conteúdo será semelhante a:
 	
-	[default]
+        [default]
 
 
 
