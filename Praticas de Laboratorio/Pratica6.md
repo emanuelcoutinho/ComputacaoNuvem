@@ -38,8 +38,6 @@ Por exemplo:
         [default]
         aws_access_key_id=ASIA4T7E453B27Y4UZP2
         aws_secret_access_key=3pCQoCQqaLrmhh6GMK1zDCZLZilhToqZnoLxnz/n
-        aws_session_token=FwoGZ87aYXdzEHYaDFzzaE44ygNAhKy8KSK/AfUdqqAcD18OcgDyDXRz/vGYw4NnLDlxQPov5DmzhZPhaIGiMMWUGLrH7gdsXy4xiLEL5Q62o
-
 
 ## Questão 01 - Amazon EC2
 
