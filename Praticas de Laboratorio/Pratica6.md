@@ -35,7 +35,6 @@ Por exemplo:
 
 5. Se não funcionar, edite o arquivo **credentials** na pasta **.aws** do usuário. O conteúdo será semelhante a:
 	
-	[default]
 	aws_access_key_id=ASIA4T7E453B27Y4UZP2
 	aws_secret_access_key=3pCQoCQqaLrmhh6GMK1zDCZLZilhToqZnoLxnz/n
 	sdsdsd
