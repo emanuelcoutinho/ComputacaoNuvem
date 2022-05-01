@@ -34,8 +34,6 @@ Por exemplo:
 5. Teste com o comando **aws ec2 describe-instances**.
 
 5. Se não funcionar, edite o arquivo **credentials** na pasta **.aws** do usuário. O conteúdo será semelhante a:
-	
-
 
 Essas informações podem ser obtidas no sandbox nas credenciais, em **Detalhes > Show > AWS CLI:**. Basta copiar para o arquivo.
 
