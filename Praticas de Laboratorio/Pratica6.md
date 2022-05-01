@@ -36,6 +36,7 @@ Por exemplo:
 5. Se não funcionar, edite o arquivo **credentials** na pasta **.aws** do usuário. Essas informações podem ser obtidas no sandbox nas credenciais, em **Detalhes > Show > AWS CLI:**. Basta copiar para o arquivo. O conteúdo será semelhante a:
 	
         [default]
+        aws_access_key_id=ASIA4T7E453B27Y4UZP2
 
 
 
