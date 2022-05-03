@@ -42,31 +42,21 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 
 ## Questão 01 - Amazon EC2
 
-Com linhas de comando:
+[Documentação do comando describe-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-instances.html)
 
-1. Crie algumas máquinas virtuais na Amazon EC2
-2. Liste todas com alguns filtros
-3. Inicialize
-4. Pare
-5. Re-inicialize
-6. Liste todas
-7. Termine
+Crie algumas máquinas virtuais para o exercicio.
+
+Com linhas de comando execute 10 comandos para testar o EC2. Comandos para listar dados das máquinas virtuais, listar em formatos diferentes, usar filtros, criar, interromper, finalizar, etc.
+
+Mostre cada comando e o resultado (texto ou imagens).
 
 ## Questão 02 - Amazon S3
 
-Com linhas de comando:
+[Documentação do comando s3](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/index.html)
 
-1. Crie um bucket na Amazon S3
-2. Liste o conteúdo
-3. Adicione arquivos
-4. Liste o conteúdo
-5. Copie arquivos
-6. Mova arquivos
-7. Liste o conteúdo
-8. Faça o download de arquivos do bucket
-9. Apague o bucket
+Com linhas de comando execute 10 comandos para testar o S3. Comandos para listar buckets, arquivos dos buckets, copiar, mover, apagar arquivos, apagar bucket, etc.
 
-
+Mostre cada comando e o resultado (texto ou imagens).
 
 
 
