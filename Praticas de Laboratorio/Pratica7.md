@@ -36,6 +36,8 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 
 Acesse o site [Execute um aplicativo "Hello, World!" sem servidor](https://aws.amazon.com/pt/getting-started/tutorials/run-serverless-code/).
 
-Execute o tutorial e relate o que ocorreu (problemas, soluções e resultados).
+Execute o tutorial e relate o que ocorreu (problemas, soluções e resultados). Utilize imagens e textos.
+
+
 
 
