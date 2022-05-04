@@ -26,4 +26,8 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 
 [Prática 5 - Criando Máquinas Virtuais](Pratica5.md)
 
+[Prática 6 - Linha de Comando](Pratica7.md)
+
+[Prática 7 - Amazon Lambda](Pratica7.md)
+
 
