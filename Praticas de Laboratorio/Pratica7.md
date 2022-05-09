@@ -44,28 +44,28 @@ Execute o tutorial e relate o que ocorreu (problemas, soluções e resultados). 
 - Selecione **Criar função**
 - Selecione **Usar um esquema**
 
-Na caixa de filtro digite **hello-world-python**
-Selecione o esquema **hello-world-python**
-Clique em **Configurar**
+- Na caixa de filtro digite **hello-world-python**
+- Selecione o esquema **hello-world-python**
+- Clique em **Configurar**
 
-Em **Informações básicas**, em **Nome da função** utilize **hello-world-python**
-Em **Papel de execução** selecione **Usar uma função existe** e escolha **LabRole**
-Clique em **Criar função**
+- Em **Informações básicas**, em **Nome da função** utilize **hello-world-python**
+- Em **Papel de execução** selecione **Usar uma função existe** e escolha **LabRole**
+- Clique em **Criar função**
 
-Navegar pelas abas 
+- Navegar pelas abas 
 
-Selecione **Testar** no menu
-Em **Nome do evento** digite **HelloWorldEvent**
-Clique em **Salvar**
-Clique em **Testar**
-Analise os resultados
+- Selecione **Testar** no menu
+- Em **Nome do evento** digite **HelloWorldEvent**
+- Clique em **Salvar**
+- Clique em **Testar**
+- Analise os resultados
 
-Execute várias vezes o teste, só para gerar dados para serem analisados
+- Execute várias vezes o teste, só para gerar dados para serem analisados
 
-Selecione **Monitor** no menu
-Analise as métricas e os gráficos
+- Selecione **Monitor** no menu
+- Analise as métricas e os gráficos
 
-No menu **Ações** selecione **Excluir função**
+- No menu **Ações** selecione **Excluir função**
 
 
 
