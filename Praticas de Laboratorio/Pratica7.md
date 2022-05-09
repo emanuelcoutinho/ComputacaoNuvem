@@ -40,9 +40,9 @@ Considere a execução da prática no ambiente do **sandbox** da AWS Aacdemy.
 
 Execute o tutorial e relate o que ocorreu (problemas, soluções e resultados). Utilize imagens e textos.
 
-Acesse o **AWS Lambda**
-Selecione **Criar função**
-Selecione **Usar um esquema**
+- Acesse o **AWS Lambda**
+- Selecione **Criar função**
+- Selecione **Usar um esquema**
 
 Na caixa de filtro digite **hello-world-python**
 Selecione o esquema **hello-world-python**
