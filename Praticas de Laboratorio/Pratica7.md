@@ -36,6 +36,8 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 
 A seguinte prática foi baseada no site [Execute um aplicativo "Hello, World!" sem servidor](https://aws.amazon.com/pt/getting-started/tutorials/run-serverless-code/).
 
+Considere a execução da prática no ambiente do **sandbox** da AWS Aacdemy.
+
 Execute o tutorial e relate o que ocorreu (problemas, soluções e resultados). Utilize imagens e textos.
 
 Acesse o **AWS Lambda**
