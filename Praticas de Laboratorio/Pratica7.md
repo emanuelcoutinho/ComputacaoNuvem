@@ -80,7 +80,7 @@ Execute o tutorial e relate o que ocorreu (problemas, soluções e resultados). 
 - Analise as métricas e os gráficos (espere um tempo para aparecer uma quantidade razoável de dados)
 - Clique em **Logs** e visualize os logs dos testes
 - Expanda a visualização das métricas e visualize com mais detalhes
-- 
+ 
 - No menu **Ações** selecione **Excluir função**
 
 
