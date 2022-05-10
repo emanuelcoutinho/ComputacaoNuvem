@@ -65,8 +65,6 @@ Execute o tutorial e relate o que ocorreu (problemas, soluções e resultados). 
 - Selecione **Monitor** no menu
 - Analise as métricas e os gráficos
 
-- No menu **Ações** selecione **Excluir função**
-
 
 ## Questão 3
 
@@ -80,6 +78,8 @@ Execute o tutorial e relate o que ocorreu (problemas, soluções e resultados). 
 
 - Selecione **Monitor** no menu
 - Analise as métricas e os gráficos
+
+- No menu **Ações** selecione **Excluir função**
 
 
 
