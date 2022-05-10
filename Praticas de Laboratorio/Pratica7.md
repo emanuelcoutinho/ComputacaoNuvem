@@ -68,6 +68,20 @@ Execute o tutorial e relate o que ocorreu (problemas, soluções e resultados). 
 - No menu **Ações** selecione **Excluir função**
 
 
+## Questão 3
+
+- Clique em **Adicionar Trigger**
+- Selecione o evento **EventBridge**
+- Para a regra, escolha **Create a new rule (Criar uma nova regra)**
+- Para **Rule name (Nome da regra)** digite **cadaMinuto**
+- Para **Rule type (Tipo de regra** selecione **Schedule expression (Expressão de programação)**
+- Para **Schedule expression (Expressão de programação)** digite**rate(1 minute)**
+- Clique em **Adicionar**
+
+- Selecione **Monitor** no menu
+- Analise as métricas e os gráficos
+
+
 
 
 
