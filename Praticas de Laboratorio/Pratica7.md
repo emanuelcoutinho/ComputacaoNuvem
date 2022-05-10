@@ -70,12 +70,12 @@ Execute o tutorial e relate o que ocorreu (problemas, soluções e resultados). 
 
 ## Questão 3
 
-- Clique em **Adicionar Trigger**
-- Selecione o evento **EventBridge**
-- Para a regra, escolha **Create a new rule (Criar uma nova regra)**
-- Para **Rule name (Nome da regra)** digite **cadaMinuto**
-- Para **Rule type (Tipo de regra** selecione **Schedule expression (Expressão de programação)**
-- Para **Schedule expression (Expressão de programação)** digite**rate(1 minute)**
+- Clique em **Adicionar Gatilho**
+- Na lista **Configuração do gatilho** selecione o evento **EventBridge**
+- Para a regra, escolha **Criar uma regra**
+- Para **Nome da regra** digite **cadaMinuto**
+- Para **Tipo de regra** selecione **Expressão de programação**
+- Para **Expressão de programação** digite**rate(1 minute)**
 - Clique em **Adicionar**
 
 - Selecione **Monitor** no menu
