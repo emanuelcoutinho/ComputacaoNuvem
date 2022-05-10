@@ -75,7 +75,7 @@ Execute o tutorial e relate o que ocorreu (problemas, soluções e resultados). 
 - Para a regra, escolha **Criar uma regra**
 - Para **Nome da regra** digite **cadaMinuto**
 - Para **Tipo de regra** selecione **Expressão de programação**
-- Para **Expressão de programação** digite**rate(1 minute)**
+- Para **Expressão de programação** digite **rate(1 minute)**
 - Clique em **Adicionar**
 
 - Selecione **Monitor** no menu
