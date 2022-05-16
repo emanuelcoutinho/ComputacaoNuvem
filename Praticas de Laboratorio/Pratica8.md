@@ -73,11 +73,11 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 
 - Acesse o Amazon EC2 
 
-- Verifique a relação das instâncias com o Amazon Elastic Beanstalk
+- Verifique e descreva a relação das instâncias com o Amazon Elastic Beanstalk
 
 - Acesse o Amazon S3
 
-- Verifique a relação dos buckets com o Amazon Elastic Beanstalk
+- Verifique e descreva a relação dos buckets com o Amazon Elastic Beanstalk
 
 
 
