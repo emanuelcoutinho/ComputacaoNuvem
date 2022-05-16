@@ -30,4 +30,6 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 
 [Prática 7 - Amazon Lambda](Pratica7.md)
 
+[Prática 8 - Amazon Elastic Beanstalk](Pratica8.md)
+
 
