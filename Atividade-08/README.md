@@ -13,7 +13,7 @@ Explorar serviços de armazenamento da Amazon (EBS e S3).
 2,0 pontos na 2ª nota.
 
 ## Data da Entrega Limite
-24/05/2022
+31/05/2022
 
 ## Questão 01 - 1,0 Ponto
 Resolva o Teste de Conhecimento do **Módulo 7: Armazenamento**. Se você tirar 80 pontos no Teste de Conhecimento, receberá 0,8 * 1 = 0,8 pontos nesta questão.
