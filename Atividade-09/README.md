@@ -13,7 +13,7 @@ Explorar serviços de banco de dados da Amazon (RDS e DynamoDB).
 2,0 pontos na 2ª nota.
 
 ## Data da Entrega Limite
-31/05/2022
+07/06/2022
 
 ## Questão 01 - 1,0 Ponto
 Resolva o Teste de Conhecimento do **Módulo 8: Bancos de dados**. Se você tirar 80 pontos no Teste de Conhecimento, receberá 0,8 * 1 = 0,8 pontos nesta questão.
