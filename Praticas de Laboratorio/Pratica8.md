@@ -7,7 +7,7 @@ Data de criação: 16/05/2022
 Autor: [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
 ## Objetivo
-Explorar o Amazon Elasntic beanstalk.
+Explorar o Amazon Elastic Beanstalk.
 
 ## Instruções de Envio
 

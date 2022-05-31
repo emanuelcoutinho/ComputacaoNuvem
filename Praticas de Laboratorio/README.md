@@ -32,4 +32,6 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 
 [Prática 8 - Amazon Elastic Beanstalk](Pratica8.md)
 
+[Prática 9 - Amazon S3](Pratica9.md)
+
 
