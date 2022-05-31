@@ -25,7 +25,8 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 - Em **Disponibilidade e durabilidade** selecione **Cluster de banco de dados Multi-AZ - Novo**
 - Em **Configurações** inclua uma senha e confirme a senha
 - No final, clique em **Criar banco de dados**
- 
+
+- Novamente, acesse **Criar banco de dados**
 - Selecione o mecanismo **PostgreSQL**
 - Em **Disponibilidade e durabilidade** selecione **Instância de banco de dados única**
 - Em **Configurações** inclua uma senha e confirme a senha
