@@ -13,7 +13,7 @@ Conhecer aspectos de arquitetura da Amazon.
 1,0 ponto na 2ª nota.
 
 ## Data da Entrega Limite
-07/06/2022
+14/06/2022
 
 ## Questão 01 - 1,0 Ponto
 Resolva o Teste de Conhecimento do **Módulo 9: Arquitetura de nuvem**. Se você tirar 80 pontos no Teste de Conhecimento, receberá 0,8 * 1 = 0,8 pontos nesta questão.
