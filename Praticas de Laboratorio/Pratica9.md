@@ -50,6 +50,10 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 - Em **Todos (acesso público)**, coluna **objetos**, selecione **Leitura**
 - Selecione **Compreendo os efeitos dessas alterações nesse objeto**
 - Salve as alterações
+- Selecione o um arquivo do bucket
+- Encontre seu endereço URL
+- Acesse-o via navegador (fazer um download)
+- Relate o ocorrido
 
 - Acesse a lista de buckets
 - Selecione o bucket criado
