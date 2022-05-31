@@ -16,23 +16,23 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 
 ## Práticas
 
-[Prática 1 - Estudo de Casos de Sucesso de Empresas](Pratica1.md)
+[Prática 1 - Estudo de Casos de Sucesso de Empresas](Pratica01.md)
 
-[Prática 2 - IaaS, PaaS e SaaS](Pratica2.md)
+[Prática 2 - IaaS, PaaS e SaaS](Pratica02.md)
 
-[Prática 3 - Custos na Amazon](Pratica3.md)
+[Prática 3 - Custos na Amazon](Pratica03.md)
 
-[Prática 4 - Regiões e Zonas de Disponibilidade da Amazon](Pratica4.md)
+[Prática 4 - Regiões e Zonas de Disponibilidade da Amazon](Pratica04.md)
 
-[Prática 5 - Criando Máquinas Virtuais](Pratica5.md)
+[Prática 5 - Criando Máquinas Virtuais](Pratica05.md)
 
-[Prática 6 - Linha de Comando](Pratica6.md)
+[Prática 6 - Linha de Comando](Pratica06.md)
 
-[Prática 7 - Amazon Lambda](Pratica7.md)
+[Prática 7 - Amazon Lambda](Pratica07.md)
 
-[Prática 8 - Amazon Elastic Beanstalk](Pratica8.md)
+[Prática 8 - Amazon Elastic Beanstalk](Pratica08.md)
 
-[Prática 9 - Amazon S3](Pratica9.md)
+[Prática 9 - Amazon S3](Pratica09.md)
 
 [Prática 10 - Amazon RDS](Pratica10.md)
 
