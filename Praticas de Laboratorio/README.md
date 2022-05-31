@@ -34,4 +34,6 @@ Crie uma pasta no GITHUB chamada **Praticas de Laboratorio** e inclua um arquivo
 
 [Prática 9 - Amazon S3](Pratica9.md)
 
+[Prática 10 - Amazon RDS](Pratica10.md)
+
 
