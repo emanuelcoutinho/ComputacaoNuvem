@@ -14,7 +14,7 @@ O trabalho consiste na utilização de ambientes de Computação em Nuvem e seus
 10,0 pontos na 3ª nota.
 
 ## Data da Entrega
-XX/XX/2022 (para todas as equipes, independente da data da apresentação)
+20/06/2022 (para todas as equipes, independente da data da apresentação)
 
 ## Questão 01 - 10,0 Pontos
 
