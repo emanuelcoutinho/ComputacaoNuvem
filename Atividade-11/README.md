@@ -7,7 +7,7 @@ Data de criação: 27/04/2022
 Autor: [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
 ## Objetivo
-Explorar serviços de banco de dados da Amazon (RDS e DynamoDB).
+Explorar serviços do Elastic Load Balance, Auto Scaling e monitoramento.
 
 ## Valor
 2,0 pontos na 2ª nota.
