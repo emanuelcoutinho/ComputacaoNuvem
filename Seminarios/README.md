@@ -35,7 +35,7 @@ O trabalho consiste na utilização de ambientes de Computação em Nuvem e seus
    - Apresentações dos slides no horário da aula
    - Pode alternar a apresentação com exemplos práticos (demonstrações de ambientes ou serviços)
    - Mínimo de 20 minutos de apresentação
-   - Máximo de 30 minuto de apresentação
+   - Máximo de 30 minutos de apresentação
    - Todos devem apresentar
 
 4. Temas
@@ -44,7 +44,7 @@ O trabalho consiste na utilização de ambientes de Computação em Nuvem e seus
    - Plataformas não apresentadas em sala de aula
 
 5. Critérios de Avaliação
-   - Qualidade dos tema
+   - Qualidade dos temas
    - Qualidade dos slides
    - Qualidade da apresentação
    - Distribuição entre equipe
