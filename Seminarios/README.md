@@ -27,8 +27,9 @@ O trabalho consiste na utilização de ambientes de Computação em Nuvem e seus
    - Devem explicar bem o tema
    - Devem ser concisos
    - Devem conter algo prático (não necessariamente a execução em tempo real, mas imagens do que foi feito, por exemplo)
-   - Devem conter capa, equipe, slides numerados e uma pergunta sobre o tema no final (múltipla escolha, associar ou V ou F)
-   - Mínimo 20 slides
+   - Listar dificuldades encontradas e soluções
+   - Devem conter capa, equipe, slides numerados e uma pergunta sobre o tema no final com resposta (múltipla escolha, associar ou V ou F)
+   - Mínimo 20 slides (excluindo capa, sumário, questão, perguntas e o obrigado)
    - Criar uma pasta **Seminarios** no GITHUB e enviar o PDF
 
 2. Apresentações
@@ -36,7 +37,10 @@ O trabalho consiste na utilização de ambientes de Computação em Nuvem e seus
    - Pode alternar a apresentação com exemplos práticos (demonstrações de ambientes ou serviços)
    - Mínimo de 20 minutos de apresentação
    - Máximo de 30 minutos de apresentação
-   - Todos devem apresentar
+   - Todos devem apresentar algo prático, não apenas algo de teoria
+   - Lembre que pode não ter internet na hora (isso não impedirá da apresentação ocorrer)
+   - Garanta um cabo de rede, adaptador hdmi / vga
+
 
 4. Temas
    - Temas específicos relacionados a Computação em Nuvem
